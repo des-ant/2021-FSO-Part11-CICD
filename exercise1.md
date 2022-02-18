@@ -10,8 +10,8 @@ language. This might even be a language you do not know much yourself.
 
 ### For a Python based application
 
-What are the specific tools for taking care of these steps in the ecosystem of
-the language you picked?
+*What are the specific tools for taking care of these steps in the ecosystem of
+the language you picked?*
 
 Linting:
 - flake8
@@ -37,7 +37,9 @@ Building:
 - CircleCI
 
 
-What alternatives are there to set up the CI besides Jenkins and GitHub Actions?
+*What alternatives are there to set up the CI besides Jenkins and GitHub
+Actions?*
+
 - TravisCI
 - CircleCI
 - CodeShip
@@ -46,7 +48,8 @@ What alternatives are there to set up the CI besides Jenkins and GitHub Actions?
 - Microsoft Team Foundation Server
 - Oracle’s Hudson
 
-Would this setup be better in a self-hosted or a cloud-based environment? Why? What information would you need to make that decision?
+*Would this setup be better in a self-hosted or a cloud-based environment? Why?
+What information would you need to make that decision?*
 
 Cloud-based environment:
 
